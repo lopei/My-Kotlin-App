@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My wallpapers</string>
+    <string name="set_wallpaper">Установить как обои</string>
+    <string name="downloaded">%s СКАЧАНО</string>
+    <string name="px">%s PX</string>
+    <string name="viewing">%s Просмотров</string>
+    <string name="kb">%s MБ</string>
+    <string name="add_favourite">Добавлено в избранное</string>
+</resources>
